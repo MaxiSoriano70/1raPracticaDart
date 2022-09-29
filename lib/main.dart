@@ -22,7 +22,7 @@ class _Desafio_5State extends State<Desafio_5> {
       debugShowCheckedModeBanner: false,
       title: 'Pet Calendar App',
       home: Scaffold(
-        backgroundColor: Colors.cyan,
+        backgroundColor: Colors.blue,
         appBar: AppBar(
           centerTitle: true,
           title: Text("Desafio 5",style: TextStyle(fontWeight: FontWeight.bold),),
